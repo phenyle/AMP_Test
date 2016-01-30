@@ -16,7 +16,13 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!"
-        android:id="@+id/textView2" />
-
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="My First APP"
+        android:id="@+id/textView"
+        android:layout_marginTop="10dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:textColor="#0de65c"
+        android:textStyle="bold"
+        android:textSize="50dp" />
 </RelativeLayout>
