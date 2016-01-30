@@ -8,6 +8,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="#ff0000"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
     tools:context="com.example.cosorio.myapplication.MainActivity"
     tools:showIn="@layout/activity_main">
